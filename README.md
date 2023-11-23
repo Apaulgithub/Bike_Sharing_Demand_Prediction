@@ -39,12 +39,13 @@ The project successfully demonstrated the feasibility of using machine learning 
 
 Some of the key points are:-
 
-High demand in the morning and evening.
-Less Demand in the winter season.
-Highest demand in june.
-Found multicollinearity between temperature and dew point temperature.
-Perform linear regression, decision tree, random forest, gradient boosting, Extreme gradient boosting. & got highest accuracy i.e 97% on train and 92% on test on Xtreme gradient boosting.
-There is no use of removing outliers, it affects negatively on model performance.
+- High demand in the morning and evening.
+- Less Demand in the winter season.
+- Highest demand in june.
+- Found multicollinearity between temperature and dew point temperature.
+- Perform linear regression, decision tree, random forest, gradient boosting, Extreme gradient boosting. & got highest accuracy i.e 97% on train and 92% on test on Xtreme gradient boosting.
+- There is no use of removing outliers, it affects negatively on model performance.
+
 Overall, the project highlights the potential of machine learning in solving real-world problems and provides a roadmap for future research in this area. The findings of this project can be extended to other cities with similar bike sharing systems, leading to more effective and efficient bike sharing operations, and better outcomes for all stakeholders.
 
 ---
